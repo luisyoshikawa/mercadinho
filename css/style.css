@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: black;
+}
+
+#centro{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
